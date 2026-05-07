@@ -474,12 +474,7 @@ Possible improvements include:
 - creating price bands and distance bands more clearly
 - automating the scraping process
 - building a Streamlit web application
-- creating a predictive model for commercial property asking price
 
----
 
-# 15. Disclaimer
-
-This project is for educational and portfolio purposes only. The dataset was collected from publicly available listing pages at the time of scraping. The analysis should not be treated as financial, property investment, or legal advice.
 
 
