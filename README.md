@@ -430,8 +430,8 @@ london-commercial-property-analysis/
 ---
 
 # 13. How to Run the Project
-
-Clone the repository:
+Download ZIP and open file to use
+Or Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/london-commercial-property-analysis.git
